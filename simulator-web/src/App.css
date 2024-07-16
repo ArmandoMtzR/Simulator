@@ -1,0 +1,58 @@
+.App {
+  display: flex;
+  gap: 20px;
+  text-align: center;
+}
+
+.Resistence {
+  border-radius: 10px;
+  border: 1px solid black;
+  width: 100px;
+  height: 200px;
+}
+
+.Band {
+  margin-top: 25px;
+  width: 100px;
+  height: 15px;
+}
+
+.R0 {
+  background-color: black;
+}
+
+.R1 {
+  background-color: brown;
+}
+
+.R2, .R10 {
+  background-color: red;
+}
+
+.R3, .R100 {
+  background-color: orange;
+}
+
+.R4, .R1000 {
+  background-color: yellow;
+}
+
+.R5, .R10000 {
+  background-color: green;
+}
+
+.R6, .R100000 {
+  background-color: blue;
+}
+
+.R7, .R1000000 {
+  background-color: purple;
+}
+
+.R8, .R10000000 {
+  background-color: gray;
+}
+
+.R9, .R100000000 {
+  background-color: white;
+}
